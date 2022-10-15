@@ -1,0 +1,449 @@
+body{
+	
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:100vh;
+	position:relative;
+}
+.nav1{
+	background-color:#1565c0;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:50px;
+   cursor:pointer;
+   color:white;
+}
+.button{
+	margin:20px;
+	color:#1565c0;
+	border:0;
+	cursor:pointer;
+	background-color:white;
+	border-radius:25px;
+	height:23px;
+	width:100px;
+}
+span{
+	margin:20px;
+}
+
+.nav2{
+	box-sizing:border-box;
+	width:100%;
+	display:flex;
+	justify-content:space-between;
+	height:65px;
+	align-items:center;
+}
+ul li{
+	list-style:none;
+	display:inline-block;
+	margin:20px;
+	font-size:16px;
+	color:rgb(45, 70, 101);
+	
+}
+.right{
+	margin-right:95px;
+}
+.logo{
+	margin-left:95px;
+	
+}
+.Sign{
+	font-size:16px;
+	color:rgb(45, 70, 101);
+	text-decoration:none;
+	margin:10px;
+}
+.section{
+	text-align:center;
+}
+.button2{
+	border-radius: 1000px;
+	color:white;
+	height:30px;
+	width:110px;
+	background-color:#001a3aeb;
+	border:none;
+	cursor:pointer;
+	font-size:15px;
+}
+
+.main1{
+	height:600px;
+	width:100%;
+	background-color:rgb(249, 250, 252);
+	box-sizing:border-box;
+	
+	
+}
+.h1{
+	font-size:50px;
+	margin-bottom:9px;
+	margin-top:90px;
+}
+.p1{
+	font-size:27px;
+	color: rgb(39, 50, 63);
+	margin-top:0px;
+}
+.website{
+	height:100vh;
+	width:100%;
+}
+.compound{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	margin-left:150px;
+	margin-right:150px;
+	margin-top:50px;	
+}
+.heading{
+	display:flex;
+	justify-content:space-between;
+	margin-left:170px;
+	margin-right:170px;
+	margin-top:20px;
+	font-size:25px;
+	align-items:center;	
+}
+.pragraph{
+	display:flex;
+	justify-content:space-between;
+	margin-left:120px;
+	margin-right:120px;
+	align-items:center;
+	color: rgb(51, 51, 51);
+	line-height: 1.6;
+}
+
+.p2{
+	width:270px;
+	 margin-top:0px;
+}
+
+.h5{
+	margin-bottom:0px;
+}
+
+.main2{
+	box-sizing:border-box;	
+	position:relative;
+}
+
+.Platinum{
+	text-align:center;
+	font-size:50px;
+	margin-top:100px;
+	margin-bottom:55px;
+	cursor:text;
+}
+
+.modus-openforge{
+	display:flex;
+	justify-content:space-between;
+	border:none;
+	outline:none;
+	padding:10px;
+}
+
+.modus{
+	width:200px;
+	height:100px;
+	margin-top:0px;
+}
+
+.openforge{
+	width:250px;
+	height:100px;
+	margin-top:0px;
+}
+.modus-button{
+	border:none;
+	outline:none;
+	margin-left:150px;
+	margin-right:50px;
+	width:900px;
+	height:220px;
+	cursor:pointer;
+	background:none;
+	
+}
+.modus-button:hover{
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	border-radius: 9px;
+}
+
+.openforge-button{
+	border:none;
+	outline:none;
+	margin-right:150px;
+	height:250px;
+	width:1000px;
+	cursor:pointer;
+	background:none;
+}
+.openforge-button:hover{
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	border-radius: 9px;
+}
+
+.p3{
+	font-size:14px;
+	line-height:1.8;
+	margin-left:11px;
+	margin-right:11px;
+	color: rgb(91, 112, 139);
+	
+}
+.main3{
+	box-sizing:border-box;	
+	position:relative;
+}
+
+
+.gold{
+	text-align:center;
+	font-size:50px;
+	margin-top:200px;
+	cursor:text;
+}
+.benoveltylimited-briebug{
+	display:flex;
+	justify-content:space-between;
+	border:none;
+	outline:none;
+}
+
+
+.briebug{
+	width:200px;
+	height:100px;
+	margin-top:0px;
+}
+.benoveltylimited-button{
+	border:none;
+	outline:none;
+	margin-left:150px;
+	margin-right:50px;
+	width:900px;
+	height:220px;
+	cursor:pointer;
+	background:none;
+}
+.briebug-button{
+	border:none;
+	outline:none;
+	margin-right:150px;
+	height:250px;
+	width:1000px;
+	cursor:pointer;
+	background:none;
+}
+.benoveltylimited-button:hover{
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	border-radius: 9px;
+}
+.briebug-button:hover{
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	border-radius: 9px;
+}
+.p4{
+	font-size:14px;
+	line-height:1.8;
+	margin-left:11px;
+	margin-right:11px;
+	color: rgb(91, 112, 139);
+}
+.hybridmob-jnesis{
+	display:flex;
+	justify-content:space-between;
+	border:none;
+	outline:none;
+	margin-top:100px;
+}
+
+.hybridmob{
+	width:250px;
+	height:100px;
+	margin-top:0px;
+}
+
+.hybridmob-button{
+	border:none;
+	outline:none;
+	margin-left:150px;
+	margin-right:50px;
+	width:900px;
+	height:220px;
+	cursor:pointer;
+	background:none;
+}
+.hybridmob-button:hover{
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	border-radius: 9px;
+}
+
+.jnesis-button:hover{
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	border-radius: 9px;
+}
+
+.jnesis-button{
+	border:none;
+	outline:none;
+	margin-right:150px;
+	height:250px;
+	width:1000px;
+	cursor:pointer;
+	background:none;
+}
+.p5{
+	font-size:14px;
+	line-height:1.8;
+	margin-left:11px;
+	margin-right:11px;
+	color: rgb(91, 112, 139);
+}
+.clearlyinnovative-button{
+	
+	margin-top:130px;
+	margin-left:35%;
+	margin-right:150px;
+	border:none;
+	outline:none;	
+	height:250px;
+	width:450px;
+	cursor:pointer;
+	background:none;
+}
+
+.clearlyinnovative-button:hover{
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	border-radius: 9px;
+}
+.clearlyinnovative{
+	width:250px;
+	height:100px;
+	margin-top:0px;
+}
+.p6{
+	font-size:14px;
+	line-height:1.8;
+	margin-left:11px;
+	margin-right:11px;
+	color: rgb(91, 112, 139);
+}
+
+.footer{
+	background-image:url("images/prefooter-img.jpg");
+	background-size:cover;
+	height:250px;
+	width:100%;
+	text-align:center;
+	
+}
+.h3{
+	font-size:37px;
+	margin-top:100px;
+	padding:75px;
+	color:white;
+	margin-bottom:0px;
+	padding-bottom:18px;
+}
+.trusted{
+	width:250px;
+	height:50px;
+	margin-top:0px;
+	background:none;
+	background-color:white;
+	border-radius:9px;
+	font-size:15px;
+	border:#c2d8ff;
+	color: #3880ff;
+	cursor:pointer;
+}
+
+.footer-heading{
+	display:flex;
+	justify-content:space-between;
+	margin-right:120px;
+}
+
+.footer-ul{
+	display:flex;
+	justify-content:space-between;
+	margin-left:220px;
+	color: rgb(68, 91, 120);
+	margin-right:15px;
+	
+	
+    
+}
+
+.footer-logo{
+	margin-left:95px;
+	margin-top:20px;
+	display:block;
+	cursor:pointer;
+}
+
+.footer-list{
+	margin-top:140px;
+}
+.Overview{
+	margin-right:20px;
+}
+.Framework{
+ width:190px;
+ margin-left:10px;
+ 
+}
+.Resource{
+	margin-left:10px;
+}
+
+.About{
+	margin-left:0px;
+}
+
+.Framework li{
+	margin-top:0px;
+	padding:0px;
+}
+
+.Resource li{
+	margin-top:0px;
+	padding:0px;
+}
+
+.Overview li{
+	margin-top:0px;
+	padding:0px;
+	
+}
+
+.About li{
+	margin-top:0px;
+	padding:0px;
+}
+
+.Help li{
+	margin-top:0px;
+	padding:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
