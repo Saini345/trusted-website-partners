@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+    <head>
+	    <meta name="viewport" content="width=device-width, intial-scale=1.0">  
+	    <title>trusted website </title>
+        <link rel="stylesheet" type="text/css" href="style5.css">
+        <link rel="icon" type="image" href="images/ionic-favicon.png">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+	</head>  
+    <body>
+        <header>
+	        <nav class="navbar navbar-dark bg-primary">
+				<div class="container-fluid d-none d-block">
+				    <div class="offset-2 d-flex justify-content-center text-white">
+	                   <p class="m-3">Ionic is joining OutSystems! Building the future of app development, together</p>
+					   <button type="button" class="btn btn-light btn-sm rounded-pill text-white bg-light bg-opacity-50 btn btn-outline-primary text-nowrap fw-semibold m-3 ">READ THE ANNOUNCEMENT</button>
+			        </div>
+			    </div>
+	        </nav>
+			<nav class="navbar navbar-expand-lg bg-light">
+				<div class="container-fluid">
+				  <a class="navbar-brand" href="homepage.html"><img class="offset-8"  src="images/ionic-logo.png" width="70px" height="27px"></a>
+				  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				  </button>
+				  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+					<ul class="navbar-nav offset-1">
+					  <li class="nav-item offset-1">
+						<a class="nav-link active" aria-current="page" href="#">Platform</a>
+					  </li>
+					  <li class="nav-item offset-1">
+						<a class="nav-link" href="#">Solutions</a>
+					  </li>
+					  <li class="nav-item offset-1">
+						<a class="nav-link" href="#">Resources</a>
+					  </li>
+					  <li class="nav-item offset-1">
+						<a class="nav-link" href="#">Company</a>
+					  </li>
+					  <li class="nav-item offset-1">
+						<a class="nav-link" href="#">Blog</a>
+					  </li>
+					  <li class="nav-item offset-1">
+						<a class="nav-link" href="#">Pricing</a>
+					  </li>
+					</ul>
+				  <div class="offset-4">
+					<a href="#" class="Sign text-decoration-none text-secondary ">Sign in</a>
+					<button type="button" class="btn btn-dark rounded-pill">Get started</button>
+				  </div>
+				  </div>
+				</div>
+			  </nav>
+	    </header>
+        <div class="container mt-5 pt-5">
+            <div class="row d-flex">
+                <div class="col-lg-5 col-md-6 col-sm-12 col-12">
+                    <h1 class="mt-3 pt-5 fw-bold display-3 lh-xs">A new way to build and ship for mobile.</h1>
+                    <p class="text-secondary fs-5">Ionic is changing the way mobile apps are built and delivered. From our popular open source mobile SDK to industry-leading mobile CI/CD and micro frontend solutions, Ionic helps you meet the demand for mobile across your business.</p>
+                    <div class="d-flex">
+                        <button class="btn btn-dark rounded-pill">Start free</button> 
+                        <p class="mt-3  ms-3">Questions?</p>
+                    </div>
+                    <p class="mt-3 text-dark text-decoration-underline fw-semibold">Talk to an expert</p>
+                </div>
+                <div class="col-lg-7 col-md-6 d-none d-md-block">
+                    <img src="images/ionic-mobile-img.png"width="700px" height="400px">
+                </div>
+            </div>
+        </div>
+        <div class="container mt-5 pt-5 ">
+            <div class="row">
+                 <div class="col">
+                     <h5 class="fw-semibold text-center">Powering mission-critical apps for the world’s best companies</h5>
+                     <marquee class="mt-3">
+                         <img class="list-1" src="images/list-1-logo.webp" height="40px" width="40px">
+                         <img class="list-2 offset-2" src="images/list-2-logo.webp" height="40px" width="40px">
+                         <img class="list-3 offset-2" src="images/list-3-logo.webp" height="40px" width="40px">
+                         <img class="list-4 offset-2" src="images/list-4-logo.webp" height="40px" width="40px">
+                         <img class="list-5 offset-2" src="images/list-5-logo.webp" height="40px" width="40px">
+                         <img class="list-6 offset-2" src="images/list-6-logo.webp" height="40px" width="40px">
+                         <img class="list-7 offset-2" src="images/list-7-logo.webp" height="40px" width="40px">
+                         <img class="list-8 offset-2" src="images/list-8-logo.webp" height="40px" width="40px">
+                         <img class="list-9 offset-2" src="images/list-9-logo.avif" height="40px" width="40px">
+                         <img class="list-10 offset-2" src="images/list-10-logo.svg" height="40px" width="40px">
+                         <img class="list-11 " src="images/list-11-logo.webp" height="40px" width="40px">
+                     </marquee>
+                 </div>
+             </div>
+         </div>
+         <div class="container box  pt-5">
+            <div class="row offset-lg-5 offset-md-0">
+                <div class="col">                   
+                   <img class="" src="images/portals-logo.webp" width="130px" height="45px">
+                   <h1 class="text-white fw-bold mt-4 me-5 lh-xs">Introducing Portals for React Native</h1>
+                    <p class="text-white mt-3 fs-5 me-5 lh-xs">Scale and move faster by inserting dynamic web content into any React Native mobile app.</p>
+                   <button class="btn btn-light text-primary rounded-pill overfllow-hidden">Learn More</button>
+                </div>
+            </div>
+        </div>
+        <div class="container mt-5 pt-5">
+            <div class="row text-center ">
+                <div class="">
+                   <h1 class="fw-bold mt-5 pt-5 display-4 ">Building incredible apps doesn’t need to be hard.</h1>
+                   <p class="fs-5 text-secondary ">Our vision is to help developers meet the need for mobile across their business. Here’s what you get with Ionic:</p>
+               </div>
+            </div>
+        </div>
+        <div class="container mt-5 pt-5">
+            <div class="row">
+                <div class="homepage-building col-lg-4 col-md-6 col-12 mt-5">
+                    <img src="images/homepage-building-1.webp" width="80px" height="80px">
+                    <h4 class="Continuous fw-bold mt-4">Continuous delivery</h4>
+                    <p class="Ship me-5 text-secondary mt-3 lh-md">Ship faster and more often with mobile CI/CD products that make building and shipping mobile apps a breeze.</p> 
+                </div>
+                <div class="heading col-lg-4 col-md-6 col-12 mt-sm-5 mt-5">
+                    <img src="images/homepage-building-2.webp" width="80px" height="80px">
+                    <h4 class="Better fw-bold mt-4">Better apps, faster</h4>
+                    <p class="Ship me-5 text-secondary mt-3 lh-md">Slash your development time and costs with a platform that lets you write once and deploy anywhere—iOS, Android, and Web.</p>            
+                </div>
+                <div class="pragraph col-lg-4 col-md-6 col-12 mt-md-5 mt-sm-5 mt-5">
+                    <img src="images/homepage-building-3.webp" width="80px" height="80px">
+                    <h4 class="Ready fw-bold mt-4">Ready for the future</h4>
+                    <p class="Ship me-5 text-secondary mt-3 lh-md">A flexible, future-proof foundation that's built on open standards and evolves with today's complex ecosystem.</p>
+                </div>
+            </div>
+        </div>
+        <div class="container hybrid d-flex rounded-4">
+            <div class="row "> 
+                <div class="col-lg-6 col-12 col-sm-12">
+                   <img class="" src="images/homepage-ebook-0.webp"  height="450px" width="530px">
+                </div>
+                <div class="col-lg-6 col-12 col-sm-12">
+                   <h2 class="learn-the text-secondary fw-semibold display-6 mt-5">Learn the differences between hybrid and native.</h2>
+                   <h2 class="break-down fw-bold display-6">We break down all the myths and misconceptions.</h2>
+                   <button class="btn btn-dark rounded-pill mt-4">Read the free eBook</button>
+                </div>
+            </div>
+        </div>
+        <div class="container mt-5">
+            <div class="row ">
+                <div class="col-lg-6 mt-5">
+                   <p class="text-secondary fw-light mt-5">CROSS - PLATFORM SDK</p>
+                   <h1 class="display-3 fw-semibold lh-1">A modern, open source SDK for iOS and Android apps.</h1>
+                   <p class="lh-base fs-5 text-secondary">Building high quality mobile apps is no easy task. Users expect seamless, familiar, and accessible interfaces—and developers want to build quickly.</p>
+                   <p class="lh-base fs-5 text-secondary"><a class="text-secondary" href="#">Ionic </a>offers seamless app UX, across iOS, Android, and the Web from a single codebase.</p>
+                   <div class="d-flex">
+                   <div>
+                       <img class="bg-dark rounded-3 me-4" src="images/ionic-apple.webp" height="50px" width="50px">
+                       <p class="iOS text-secondary mt-3">iOS</p>
+                    </div>
+                    <div>
+                       <img class="bg-secondary rounded-3 me-4" src="images/ionic-inactive.webp" height="50px" width="50px">
+                       <P class="Android text-secondary mt-3">Android</P>
+                    </div>
+                    <div> 
+                       <img class="bg-secondary rounded-3 me-5" src="images/ionic-custom.webp" height="50px" width="50px">
+                       <p class="Custom text-secondary mt-3">Custom</p>
+                    </div>
+                    <div>
+                       <img class="bg-dark rounded-start me-0" src="images/light-mode.webp" height="30px" width="30px">
+                       <img class="bg-dark rounded-end ms-0" src="images/ionic-dark-mode.webp" height="30px" width="20px">   
+                       <p class="text-secondary mt-5">Mode</p>
+                    </div>
+                    </div>
+                </div>
+            <div class="col-lg-6">
+                <img class="stocks-dark" src="images/stocks-dark.webp" height="700px" width="350px">
+                <img src="images/music-light.webp" height="700px" width="350px">
+            </div>
+            </div>
+        </div>
+         
+         
+         
+        
+      
